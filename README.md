@@ -37,5 +37,5 @@ This repository is dedicated to learning and implementing various data structure
 
    ```bash
    git clone https://github.com/ChristVice/PyDataStructures.git
-   cd DataStructuresPython
+   cd PyDataStructures
    ```
